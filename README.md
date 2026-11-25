@@ -1,39 +1,39 @@
-# Hi, I'm Maximiliano Cabral 👋
+# 👋 ¡Hola! Soy Maximiliano Cabral
 
-### 🎓 Programming Student at UTN | Aspiring Software Developer
+### 🎓 Estudiante de Programación en UTN | Desarrollador de Software en formación
 
-I'm a programming student at **Universidad Tecnológica Nacional (UTN), Argentina**, passionate about software development, problem-solving and technology.
+Soy estudiante de la **Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional (UTN), Argentina**.
 
-I enjoy building practical applications, learning new technologies and improving my skills through real-world projects.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Studying **Tecnicatura Universitaria en Programación** at UTN, Argentina.
-- 💻 Interested in Backend Development and Software Engineering.
-- 🌱 Continuously learning and improving my programming skills.
-- 🗄️ Exploring database design, SQL and PostgreSQL.
-- 🚀 Building applications using JavaScript, React, Node.js and Express.
-- 🎯 My goal is to grow as a professional software developer.
+Me interesa el desarrollo de software, la resolución de problemas y la construcción de soluciones tecnológicas. Disfruto aprender nuevas herramientas, desarrollar proyectos prácticos y fortalecer continuamente mis conocimientos en programación.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 Sobre mí
 
-### Programming Languages
+- 🎓 Estudiante de la Tecnicatura Universitaria en Programación (UTN).
+- 💻 Orientado al desarrollo de software, especialmente Backend.
+- 🚀 Desarrollo aplicaciones utilizando JavaScript, React, Node.js y Express.
+- 🗄️ Trabajo con bases de datos relacionales y NoSQL.
+- 📚 Actualmente profundizando mis conocimientos en PostgreSQL y PL/pgSQL.
+- 🎯 Enfocado en adquirir experiencia y desarrollarme profesionalmente en el ámbito IT.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes de programación
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend Development
+### Desarrollo Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
-### Backend Development
+### Desarrollo Backend y Bases de Datos
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -41,7 +41,7 @@ I enjoy building practical applications, learning new technologies and improving
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Testing
+### Herramientas y testing
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,92 +50,91 @@ I enjoy building practical applications, learning new technologies and improving
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
-### 📦 StockLab – Inventory Management System
+### 📦 StockLab – Sistema de gestión de inventario
 
-A web application designed to manage inventory, products, stock movements and fixed assets.
+Aplicación web desarrollada para gestionar inventarios, productos, movimientos de stock y activos fijos.
 
-**Features:**
-- Complete inventory management (CRUD).
-- Product entries and exits.
-- Stock alerts and dashboard statistics.
-- User authentication.
-- Responsive interface.
+**Funcionalidades principales:**
+- Gestión completa de productos (CRUD).
+- Registro de entradas y salidas de mercadería.
+- Alertas de stock bajo.
+- Panel de estadísticas.
+- Autenticación de usuarios.
+- Interfaz adaptable a dispositivos móviles y computadoras.
 
-**Technologies:** React, Vite, Firebase, Firestore, Ant Design.
+**Tecnologías:** React, Vite, Firebase, Firestore y Ant Design.
 
-🔗 [View Repository](https://github.com/Maximiliano-cabral/StockLab-app)
+🔗 [Ver repositorio](https://github.com/Maximiliano-cabral/StockLab-app)
 
-### 🐾 Adoptme – Backend REST API
+### 🐾 Adoptme – API REST de adopción de mascotas
 
-A backend application for a pet adoption platform.
+Desarrollo backend de una plataforma de adopción de mascotas.
 
-**Features:**
-- REST API development.
-- Layered architecture.
-- Routes, controllers, services and repositories.
-- MongoDB integration using Mongoose.
-- Functional testing.
-- Docker containerization.
+**Características principales:**
+- Desarrollo de API REST.
+- Arquitectura por capas.
+- Separación de rutas, controladores, servicios y repositorios.
+- Integración con MongoDB mediante Mongoose.
+- Pruebas funcionales.
+- Dockerización de la aplicación.
 
-**Technologies:** Node.js, Express, MongoDB, Mongoose, Docker, Mocha, Chai, Sinon and Supertest.
+**Tecnologías:** Node.js, Express, MongoDB, Mongoose, Docker, Mocha, Chai, Sinon y Supertest.
 
-🔗 [View Repository](https://github.com/Maximiliano-cabral/adoptme-backend)
+🔗 [Ver repositorio](https://github.com/Maximiliano-cabral/adoptme-backend)
 
 ### 🛒 React E-commerce App
 
-An e-commerce frontend application developed with React.
+Aplicación frontend de comercio electrónico desarrollada con React.
 
-**Technologies:** React, Vite, Firebase and React Router.
+**Tecnologías:** React, Vite, Firebase y React Router.
 
-🔗 [View Repository](https://github.com/Maximiliano-cabral/ReactEcommersApp)
+🔗 [Ver repositorio](https://github.com/Maximiliano-cabral/ReactEcommersApp)
 
-### ⚙️ Backend Final Project
+### ⚙️ Proyecto Final Backend
 
-A backend development project using Node.js and Express, with MongoDB integration and server-side rendering.
+Proyecto de desarrollo backend utilizando Node.js y Express, con integración de MongoDB y renderizado mediante Handlebars.
 
-**Technologies:** Node.js, Express, MongoDB, Mongoose and Handlebars.
+**Tecnologías:** Node.js, Express, MongoDB, Mongoose y Handlebars.
 
-🔗 [View Repository](https://github.com/Maximiliano-cabral/entrega-backend-final)
-
----
-
-## 📚 Currently Learning
-
-- PostgreSQL and relational database management.
-- Advanced SQL queries.
-- PL/pgSQL, Functions and Triggers.
-- Database design and optimization.
-- Software development and programming fundamentals.
+🔗 [Ver repositorio](https://github.com/Maximiliano-cabral/entrega-backend-final)
 
 ---
 
-## 📊 GitHub Statistics
+## 📚 Formación y aprendizaje continuo
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maximiliano-cabral&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliano-cabral&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Actualmente estoy profundizando mis conocimientos en:
 
----
-
-## 🎯 My Goals
-
-- Become a professional software developer.
-- Deepen my knowledge of backend development.
-- Master PostgreSQL and database technologies.
-- Build scalable applications and meaningful projects.
-- Keep learning and growing in the IT industry.
+- PostgreSQL y administración de bases de datos relacionales.
+- Consultas SQL y optimización de consultas.
+- PL/pgSQL, funciones y triggers.
+- Modelado y diseño de bases de datos.
+- Arquitectura backend y diseño de API REST.
+- Buenas prácticas y principios de desarrollo de software.
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Perfil profesional y objetivos
+
+Mi objetivo es desarrollarme profesionalmente en el área de desarrollo de software, consolidando una base técnica sólida y adquiriendo experiencia en la construcción de soluciones eficientes, mantenibles y escalables.
+
+Actualmente estoy enfocado en:
+
+- **Desarrollo Backend:** profundizar mis conocimientos en Node.js, Express, diseño de API REST y arquitectura de aplicaciones.
+- **Bases de datos:** fortalecer mis habilidades en modelado relacional, consultas SQL, PostgreSQL y programación con PL/pgSQL.
+- **Ingeniería de software:** aplicar buenas prácticas de programación, estructuras de datos, testing y principios de diseño.
+- **Desarrollo de proyectos:** construir aplicaciones que resuelvan problemas reales, priorizando la calidad del código, la organización y la mantenibilidad.
+- **Crecimiento profesional:** continuar mi formación en la UTN y trasladar los conocimientos adquiridos a proyectos y experiencias del ámbito laboral.
+
+---
+
+## 🤝 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-Maximiliano--cabral-181717?style=for-the-badge&logo=github)](https://github.com/Maximiliano-cabral)
 
 ---
 
 <p align="center">
-  <i>"Learning by doing, improving every day, and building the future one line of code at a time."</i>
+  <i>Aprendiendo, desarrollando y construyendo soluciones tecnológicas con dedicación. 🚀</i>
 </p>
